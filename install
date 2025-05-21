@@ -1,0 +1,5 @@
+npm install -D @vitejs/plugin-react
+git add .
+git commit -m "Fix: Added @vitejs/plugin-react"
+git push origin main
+
